@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rakentamisilmoitukset.dokuline.com/sitemap.xml
